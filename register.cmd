@@ -1,4 +1,3 @@
 rem modify it to reflect actual path;
-rem TextEditSH.dll should be in the same folder as textedit.exe;
 
-regsvr32 \DEVEL\PELLE\copypath\cpypath.dll
+regsvr32 \DEVEL\PELLE\copypath-git\cpypath.dll
