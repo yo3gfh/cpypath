@@ -27,4 +27,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 **Features**
 
 * select one or more files, right-click, "Copy Path to Clipboard". Amazing =)
+* expands network drives (mapped drives) to their corresponding UNC path
+* unlimited files (limited by available memory, though :-) )
 
